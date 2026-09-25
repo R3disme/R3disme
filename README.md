@@ -12,7 +12,7 @@ Full-stack developer and IT student. I build typed web apps, Minecraft network
 tooling, desktop audio software and a package manager.
 ```
 
-<img src="assets/catgirl.svg" align="left" width="220" alt="Nyra, an animated braille catgirl" />
+<img src="assets/chibi-happy.svg" align="left" width="220" alt="Nyra, an animated braille chibi catgirl" />
 
 ```console
 ~/r3d $ fastfetch
