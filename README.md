@@ -21,12 +21,12 @@ r3disme@arch
 ------------
 OS:       Arch Linux (runs on duct tape)
 Stack:    SvelteKit · TypeScript · Tailwind
-Also:     C · Java · Python · Rust
+Also:     Java · Python · Rust
 Games:    Minecraft
 Location: Norway
 ```
 
-Most of what I ship is SvelteKit and TypeScript. When the browser is the wrong place for it, I drop to C, Java or Rust.
+Most of what I ship is SvelteKit and TypeScript. When the browser is the wrong place for it, I reach for Java or Rust.
 
 Right now most of my time goes to **pak**, a package manager that builds everything from source, and its web front.
 
@@ -50,7 +50,7 @@ Right now most of my time goes to **pak**, a package manager that builds everyth
 ### `~/r3d $ cat stack.txt`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,svelte,tailwind,nodejs,c,java,python,rust,postgres,bash,docker,git&theme=dark" alt="TypeScript, Svelte, Tailwind CSS, Node.js, C, Java, Python, Rust, PostgreSQL, Bash, Docker, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,svelte,tailwind,nodejs,java,python,rust,postgres,bash,docker,git&theme=dark" alt="TypeScript, Svelte, Tailwind CSS, Node.js, Java, Python, Rust, PostgreSQL, Bash, Docker, Git" />
 </p>
 
 <p>
